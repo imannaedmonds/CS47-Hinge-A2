@@ -8,3 +8,4 @@
  4. Run ```npx expo start```
 #### Good luck! Have fun!
 # CS47-Hinge-A2
+# CS47-Hinge-A2

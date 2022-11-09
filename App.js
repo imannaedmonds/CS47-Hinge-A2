@@ -20,7 +20,7 @@ export default function App() {
   /* insert your code here */
 
   return (
-  // navigation tool bar
+/*naviagtion tool bar in the menu*/
     <View style={styles.container1}>
       <View style={styles.titleRow}>
         <Image
